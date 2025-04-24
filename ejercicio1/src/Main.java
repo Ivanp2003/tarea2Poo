@@ -24,5 +24,7 @@ Realizar EL REGISTRO de los atributos con datos quemados y utilizando Scanner co
         jugador2.mostrarInformación();
         jugador3.mostrarInformación();
         jugador4.mostrarInformación();
+
+        System.out.println("HOLA");
     }
 }
